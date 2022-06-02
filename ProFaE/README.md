@@ -1,21 +1,21 @@
 # projetofront
 
-## Project setup
+## Configurando o Projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodando o Servidor Para Desevolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilando Para Produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lint e Conserto de Arquivos 
 ```
 npm run lint
 ```
